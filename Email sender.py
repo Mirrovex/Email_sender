@@ -101,19 +101,13 @@ Wysyłam załączniki dot. „Rozliczenia czasu pracy kierowcy” za bieżący m
 
 Proszę o informację zwrotną z potwierdzeniem otrzymania wyżej wymienionych dokumentów oraz ich akceptację o treści:
 „Potwierdzam i akceptuję otrzymane dokumenty rozliczeniowe za bieżący miesiąc 2021”
-- na e-mail:  rcp@lspgroup.pl
 
 Proszę o odpisanie wciągu 7 dni od daty otrzymania.
 Nie wywiązanie się z ustalonego terminu – skutkować będzie na wynik premii.
 
 
-Pozdrawiam,
-Karolina Nowicka
-Specjalista ds. kadr
-
-+48 784-694-941
-+48 605-986-058
-+48 22 123 68 51""") #tekst
+Pozdrawiam
+""") #tekst
 
 scroll.config(command = text_text.yview) #aktualizuje pozycje suwaka
 
